@@ -1,3 +1,13 @@
+# Project-2
+
+## Project #2: The Full Stack MERN App
+
+## A working full-stack application, built by you, using the MERN stack: Node.js, MongoDB/Mongoose, Express and React with at least one model with full CRUD.
+
+#
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
