@@ -1,6 +1,6 @@
 {
   "proxy": "http://localhost:3001",
-  "name": "mern-infrastructure-sei-cafe",
+  "name": "project-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

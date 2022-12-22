@@ -2,7 +2,7 @@
 
 ## Project #2: The Full Stack MERN App
 
-## A working full-stack application, built by you, using the MERN stack: Node.js, MongoDB/Mongoose, Express and React with at least one model with full CRUD.
+## A working full-stack application, built by me, using the MERN stack: Node.js, MongoDB/Mongoose, Express and React with at least one model with full CRUD.
 
 #
 
